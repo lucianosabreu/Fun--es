@@ -1,0 +1,3 @@
+tem novo conteudo
+gravei outra linha
+novo conteudo sem apagar o arquivo
